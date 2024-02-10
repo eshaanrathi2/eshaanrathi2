@@ -1,6 +1,7 @@
 # About
 
 ### I have industry experience in building high quality Software, AI Systems and Cloud Infrastructure— solving pressing problems in Sustainability, Climate, Healthcare and Accessibility. I am pursuing Master's in Computer Science from Santa Clara University and will graduate in June 2024.
+### I am super interested in HPC (Quantum, Parallel and Distributed Computing) and AI (Image and Language Models).
 
 # Projects
 
