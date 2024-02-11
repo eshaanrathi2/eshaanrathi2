@@ -12,6 +12,10 @@ I am super interested in HPC (Quantum, Parallel and Distributed Computing) and A
 ## [Futurama: AI Puzzle Solver](https://github.com/eshaanrathi2/Futurama)
 ![assets/n-puzzle.png](assets/n-puzzle.png)
 
+## [Fusion-DB: Time and Space efficient Database Engine](https://github.com/eshaanrathi2/Fusion-DB)
+![assets/fusion-db.png](assets/fusion-db.png)
+
+
 ## [SocialX: Social Network Knowledge Graphs](https://github.com/eshaanrathi2/SocialX)
 ![assets/celegans.png](assets/celegans.png)
 
