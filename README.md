@@ -19,7 +19,7 @@ I am super interested in HPC (Quantum, Parallel and Distributed Computing) and A
 
 ## [SocialX: Social Network Knowledge Graphs](https://github.com/eshaanrathi2/SocialX)
 <!-- ![assets/celegans.png](assets/celegans.png) -->
-<img src="assets/celegans.png" width="400">
+<img src="assets/celegans.png" width="600">
 
 <!-- <img src="assets/n-puzzle.png" width="200"> -->
 
