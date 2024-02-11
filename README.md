@@ -6,12 +6,17 @@
 # Projects
 
 ## [Generative AI for Anime Characters](https://github.com/eshaanrathi2/Generative-AI-Anime)
-<img src="assets/gan-1.png" width="48">
+
+<img src="assets/gan-1.png" width="200">
+
 ![assets/gan-1.png](assets/gan-1.png)
 
 
 ## [Futurama](https://github.com/eshaanrathi2/Futurama)
-![assets/gan-1.png](assets/gan-1.png)
+
+![assets/n-puzzle.png](assets/n-puzzle.png)
+
+<img src="assets/n-puzzle.png" width="200">
 
 <!--
 **eshaanrathi2/eshaanrathi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
