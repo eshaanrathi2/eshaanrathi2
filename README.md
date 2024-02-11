@@ -1,13 +1,17 @@
 # About
 
 ### I have industry experience in building high quality Software, AI Systems and Cloud Infrastructure— solving pressing problems in Sustainability, Climate, Healthcare and Accessibility. I am pursuing Master's in Computer Science from Santa Clara University and will graduate in June 2024.
-### I am super interested in HPC (Quantum, Parallel and Distributed Computing) and AI (Image and Language Models).
+### I am super interested in HPC (Quantum, Parallel and Distributed Computing) and AI (Image and Language Models)
 
 # Projects
 
-##
+## [Generative AI for Anime Characters](https://github.com/eshaanrathi2/Generative-AI-Anime)
+<img src="assets/gan-1.png" width="48">
+![assets/gan-1.png](assets/gan-1.png)
 
 
+## [Futurama](https://github.com/eshaanrathi2/Futurama)
+![assets/gan-1.png](assets/gan-1.png)
 
 <!--
 **eshaanrathi2/eshaanrathi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
