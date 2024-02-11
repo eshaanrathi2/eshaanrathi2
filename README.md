@@ -6,7 +6,8 @@ I am super interested in HPC (Quantum, Parallel and Distributed Computing) and A
 # Projects
 
 ## [Generative AI for Anime Characters](https://github.com/eshaanrathi2/Generative-AI-Anime)
-![assets/gan-1.png](assets/gan-1.png)
+<!-- ![assets/gan-1.png](assets/gan-1.png)-->
+<img src="assets/gan-1.png" width="800">
 <!-- <img src="assets/gan-1.png" width="200"> -->
 
 ## [Futurama: AI Puzzle Solver](https://github.com/eshaanrathi2/Futurama)
