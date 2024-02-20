@@ -10,15 +10,14 @@ I have experience in building high quality Software, AI Systems and Cloud Infras
 <!-- <img src="assets/gan-1.png" width="200"> -->
 
 ## [IEEE INDICON Paper on Deep Learning + Benchmarking Computing Devices](https://ieeexplore.ieee.org/document/9691542)
-Objective was to build an universally accessible AI system for Realtime Sign Language Recognition. For example the following image represents "friend" in Indian Sign Language.
 <img src="assets/sign-language-friend.JPG" width="400">
+Objective was to build an universally accessible AI system for Realtime Sign Language Recognition. For example the above image represents "friend" in Indian Sign Language. If the system could understand this and convert it into text, it would help hearing and speech impaired people to communicate their their thoughts better. I left the project midway after graduation. Though we manage to present our findings in a research paper, presented in INDICON (IEEE conference).
 
 ## [Futurama: AI Puzzle Solver](https://github.com/eshaanrathi2/Futurama)
 ![assets/n-puzzle.png](assets/n-puzzle.png)
 
 ## [Fusion-DB: Time and Space efficient Database Engine](https://github.com/eshaanrathi2/Fusion-DB)
 ![assets/fusion-db.png](assets/fusion-db.png)
-
 
 ## [SocialX: Social Network Knowledge Graphs](https://github.com/eshaanrathi2/SocialX)
 <!-- ![assets/celegans.png](assets/celegans.png) -->
