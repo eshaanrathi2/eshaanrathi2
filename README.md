@@ -1,7 +1,6 @@
 # About
 
-I have industry experience in building high quality Software, AI Systems and Cloud Infrastructure— solving pressing problems in Sustainability, Climate, Healthcare and Accessibility. I am pursuing Master's in Computer Science from Santa Clara University and will graduate in June 2024. 
-I am super interested in HPC (Quantum, Parallel and Distributed Computing) and AI (Image and Language Models)
+I have experience in building high quality Software, AI Systems and Cloud Infrastructure— solving problems in Sustainability, Climate, Healthcare and Accessibility. I am pursuing Master's in Computer Science from Santa Clara University and will graduate in June 2024. I am super interested in HPC (Quantum, Parallel and Distributed Computing) and AI (Image and Language Models).
 
 # Projects
 
@@ -9,6 +8,10 @@ I am super interested in HPC (Quantum, Parallel and Distributed Computing) and A
 <!-- ![assets/gan-1.png](assets/gan-1.png)-->
 <img src="assets/gan-1.png" width="400">
 <!-- <img src="assets/gan-1.png" width="200"> -->
+
+## [IEEE INDICON Paper on Deep Learning + Benchmarking Computing Devices](https://ieeexplore.ieee.org/document/9691542)
+Objective was to build an universally accessible AI system for Realtime Sign Language Recognition. For example the following image represents "friend" in Indian Sign Language.
+<img src="assets/sign-language-friend.JPG" width="400">
 
 ## [Futurama: AI Puzzle Solver](https://github.com/eshaanrathi2/Futurama)
 ![assets/n-puzzle.png](assets/n-puzzle.png)
@@ -20,6 +23,9 @@ I am super interested in HPC (Quantum, Parallel and Distributed Computing) and A
 ## [SocialX: Social Network Knowledge Graphs](https://github.com/eshaanrathi2/SocialX)
 <!-- ![assets/celegans.png](assets/celegans.png) -->
 <img src="assets/celegans.png" width="600">
+
+Other Projects Include (didn't add version control):
+- Twitter bot to make searching for medicines easier for people. Helped hundreds of people in Covid peak.
 
 <!-- <img src="assets/n-puzzle.png" width="200"> -->
 
