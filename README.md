@@ -1,23 +1,31 @@
-# About
+## About
 
-I have experience in building high quality Software, AI Systems and Cloud Infrastructure— solving problems in Sustainability, Climate, Healthcare and Accessibility. I am pursuing Master's in Computer Science from Santa Clara University and will graduate in June 2024. I am super interested in HPC (Quantum, Parallel and Distributed Computing) and AI (Image and Language Models).
+* Love building tech, especially Software and AI Systems that contribute positively to society. Such as in Climate, Healthcare, Accessibility, Education etc.
+* Master's in Computer Science from Santa Clara University, California, US.
+* Interests:
+  * High Performance Computing (Quantum, Parallel and Distributed Computing)
+  * AI (Vision and Language Models)
 
-# Projects
-
-## [Generative AI for Anime Characters](https://github.com/eshaanrathi2/Generative-AI-Anime)
-<!-- ![assets/gan-1.png](assets/gan-1.png)-->
-<img src="assets/gan-1.png" width="400">
-<!-- <img src="assets/gan-1.png" width="200"> -->
+## Projects
 
 ## [Work on Deep Learning + Benchmarking Computing Devices](https://ieeexplore.ieee.org/document/9691542)
 <img src="assets/sign-language-friend.JPG" width="400">
 Objective was to build an universally accessible AI system for Realtime Sign Language Recognition. For example the above image represents "friend" in Indian Sign Language. If the system could understand this and convert it into text, it would help hearing and speech impaired people to communicate their their thoughts better. I left the project midway after graduation. Though we manage to present our findings in a research paper, presented in INDICON (IEEE conference).
 
-## [Futurama: AI Puzzle Solver](https://github.com/eshaanrathi2/Futurama)
+
+## [Path Finding Algorithms in AI](https://github.com/eshaanrathi2/Futurama)
 ![assets/n-puzzle.png](assets/n-puzzle.png)
 
-## [Fusion-DB: Time and Space efficient Database Engine](https://github.com/eshaanrathi2/Fusion-DB)
+
+## [Database Engine](https://github.com/eshaanrathi2/Fusion-DB)
 ![assets/fusion-db.png](assets/fusion-db.png)
+
+
+## [Image Generation with GAN](https://github.com/eshaanrathi2/Generative-AI-Anime)
+<!-- ![assets/gan-1.png](assets/gan-1.png)-->
+<img src="assets/gan-1.png" width="400">
+<!-- <img src="assets/gan-1.png" width="200"> -->
+
 
 ## [SocialX: Social Network Knowledge Graphs](https://github.com/eshaanrathi2/SocialX)
 <!-- ![assets/celegans.png](assets/celegans.png) -->
