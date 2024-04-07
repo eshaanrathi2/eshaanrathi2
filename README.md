@@ -1,10 +1,18 @@
 ## About
 
+* I am currently working with LLMs and RAG systems for fast and precise information retrieval. Recently explored ways to deploy and scale them on Cloud.
+* Previously,
+  * Built software at YC backed startups
+  * Developed Machine Learning tools at MNCs
+  * Worked in Deep Learning and High Performance Computing. Balanced between research and engineering.
+  * Through my software products, contributed to Climate, Healthcare, Education and Accessibility.
+<!--
 * Love building tech, especially Software and AI Systems that contribute positively to society. Such as in Climate, Healthcare, Accessibility, Education etc.
 * Master's in Computer Science from Santa Clara University, California, US.
 * Interests:
   * High Performance Computing (Quantum, Parallel and Distributed Computing)
   * AI (Vision and Language Models)
+-->
 
 ## Projects
 
