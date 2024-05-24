@@ -1,10 +1,10 @@
 ## About
 
-* Currently developing software for large scale information retrieval with RAG and LLMs.
+* Currently developing software for large scale information retrieval with RAG and LLMs
 * Previously,
-  * Built backend software and ML systems at YC startups and product companies.
-  * Worked in Deep Learning and High Performance Computing.
-* Interested in AI/ML Systems, Networks (Distributed Computing and Security), Cloud Infrastructure and Analytics at scale.
+  * Built backend software and ML systems at YC startups and product companies
+  * Worked in Deep Learning and High Performance Computing
+* Interested in AI/ML Systems, Networks (Distributed Computing and Security), Cloud Infrastructure and Analytics at scale
 
 <!--
 * Love building tech, especially Software and AI Systems that contribute positively to society. Such as in Climate, Healthcare, Accessibility, Education etc.
@@ -24,7 +24,7 @@ Objective was to build an universally accessible AI system for Realtime Sign Lan
 ## [Projects in Cloud Infrastructure](https://ieeexplore.ieee.org/document/9691542)
 Areas include Virtualization, Containerization, Serverless Computing, Software Defined Networking.
 
-<img src="assets/vm-with-qemu.png" width="400">
+<img src="assets/vm-with-qemu.png">
 
 
 
