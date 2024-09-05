@@ -1,10 +1,11 @@
 ## About
 
-* Currently developing software for large scale information retrieval with RAG and LLMs
+* Currently developing software for information retrieval & Generation with query translation, indexing, vector similarity search and local LLMs. This work is supporting a research on finding optimal teaching-learning environments for everyone.
+
 * Previously,
   * Built backend software and ML systems at YC startups and product companies
-  * Worked in Deep Learning and High Performance Computing
-* Interested in AI/ML Systems, Networks (Distributed Computing and Security), Cloud Infrastructure and Analytics at scale
+  * Worked in Deep Learning and HPC
+* Interested in Computer Systems, ML, Security and Cloud Infrastructure
 
 <!--
 * Love building tech, especially Software and AI Systems that contribute positively to society. Such as in Climate, Healthcare, Accessibility, Education etc.
@@ -28,27 +29,27 @@ Topics include Virtualization, Containerization, Serverless Computing, Software 
 
 
 
-## [Path finding algorithms in AI](https://github.com/eshaanrathi2/Futurama)
-![assets/n-puzzle.png](assets/n-puzzle.png)
+<!-- ## [Path finding algorithms in AI](https://github.com/eshaanrathi2/Futurama)
+![assets/n-puzzle.png](assets/n-puzzle.png) -->
 
 
 ## [Database Engine](https://github.com/eshaanrathi2/Fusion-DB)
 ![assets/fusion-db.png](assets/fusion-db.png)
 
 
-## [Image Generation with GAN](https://github.com/eshaanrathi2/Generative-AI-Anime)
+<!-- ## [Image Generation with GAN](https://github.com/eshaanrathi2/Generative-AI-Anime) -->
 <!-- ![assets/gan-1.png](assets/gan-1.png)-->
-<img src="assets/gan-1.png" width="400">
+<!-- <img src="assets/gan-1.png" width="400"> -->
 <!-- <img src="assets/gan-1.png" width="200"> -->
 
 
-## [SocialX: Social Network Graphs](https://github.com/eshaanrathi2/SocialX)
+<!-- ## [SocialX: Social Network Graphs](https://github.com/eshaanrathi2/SocialX) -->
 <!-- ![assets/celegans.png](assets/celegans.png) -->
-<img src="assets/celegans.png" width="600">
+<!-- <img src="assets/celegans.png" width="600"> -->
 
 
-### Other Projects:
-* Twitter bot to make searching for medicines easier for people. Helped hundreds of people in Covid peak.
+<!-- ### Other Projects:
+* Twitter bot to make searching for medicines easier for people. Helped hundreds of people in Covid peak. -->
 
 
 <!-- <img src="assets/n-puzzle.png" width="200"> -->
